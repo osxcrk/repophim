@@ -143,7 +143,6 @@ open class Ophim : MainAPI() {
                     actors = movieDetailItem.actor.map { it -> ActorData(actor = Actor(it)) },
                     comingSoon = movieDetailItem.episodes.isEmpty(),
                     backgroundPosterUrl = fixUrl(movieDetailItem.poster_url, DOMAIN_IMAGE),
-                    recommendations = related,
                     tags = movieDetail.category.map { it -> it.name }
                 )
             } else {
@@ -180,7 +179,6 @@ open class Ophim : MainAPI() {
                     actors = movieDetailItem.actor.map { it -> ActorData(actor = Actor(it)) },
                     comingSoon = movieDetailItem.episodes.isEmpty(),
                     backgroundPosterUrl = fixUrl(movieDetailItem.poster_url, DOMAIN_IMAGE),
-                    recommendations = related,
                     tags = movieDetail.category.map { it -> it.name }
 
                 )

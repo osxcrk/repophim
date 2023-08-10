@@ -105,14 +105,7 @@ class SubNhanhProvider : MainAPI() {
         }
         return null
     }
-    override suspend fun search(query: String): List<SearchResponse>? {
-      
-        val document = Jsoup.parse(html)
-
-        return document.select("#all-items .item").map {
-            getItemMovie(it)
-        }
-    }
+    
 
     private fun getItemMovie(it: Element): MovieSearchResponse {
         val title = it.select(".item-block-title").last()!!.text()

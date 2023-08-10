@@ -5,10 +5,7 @@ import com.lagradost.cloudstream3.utils.AppUtils.parseJson
 import com.lagradost.cloudstream3.utils.AppUtils.toJson
 import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.getQualityFromName
-import com.phimhd.AppController
-import com.phimhd.IPTV
-import com.phimhd.ListIPTV
-import com.phimhd.ResponseIPTV
+
 
 class LiveTVProvider : MainAPI() {
     override var name = IPTV_API_NAME

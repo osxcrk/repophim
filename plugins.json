@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/test",
+        "fileSize": 12697,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Hexated, netcrk"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "BluphimProvider",
+        "url": "https://raw.githubusercontent.com/osxcrk/test/builds/BluphimProvider.cs3",
+        "name": "BluphimProvider"
+    }
+]

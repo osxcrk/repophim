@@ -17,7 +17,7 @@ class Vlxx : MainAPI() {
     private val globaltvType = TvType.NSFW
 
     override var name = "Vlxx"
-    override var mainUrl = "https://vlxx.sex"
+    override var mainUrl = "https://vlxx.net"
     override val supportedTypes = setOf(TvType.NSFW)
     override val hasDownloadSupport = false
     override val hasMainPage = true

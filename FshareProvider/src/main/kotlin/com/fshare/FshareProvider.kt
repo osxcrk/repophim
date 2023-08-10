@@ -13,6 +13,7 @@ import org.jsoup.nodes.Element
 
 class FshareProvider : MainAPI() {
     override var name = "Fshare"
+    override var lang = "vi"
     override var mainUrl = DOMAIN
     override val hasMainPage = true
     override val hasDownloadSupport = false

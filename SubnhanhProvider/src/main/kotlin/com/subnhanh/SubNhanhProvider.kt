@@ -4,7 +4,6 @@ import android.net.Uri
 import android.util.Log
 import android.util.Patterns
 import com.lagradost.cloudstream3.*
-import com.lagradost.cloudstream3.ui.search.SearchFragment.Companion.DEFAULT_QUERY_SEARCH
 import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.getQualityFromName
 import org.jsoup.Jsoup
@@ -55,52 +54,19 @@ class SubNhanhProvider : MainAPI() {
             if (listMovie.isNotEmpty())
                 listHomePageList.add(HomePageList(name, listMovie))
         }
-        val listGenre = arrayListOf<Page>()
         doc.select(".top_menu .sub-menu").first()!!.select("li").forEach {
             val url = fixUrl(it.selectFirst("a")!!.attr("href"))
             val name = it.selectFirst("a")!!.text().trim()
-            listGenre.add(Page(name,url,nameApi = this.name))
         }
-        val listCountry = arrayListOf<Page>()
         doc.select(".top_menu .sub-menu")[1].select("li").forEach {
             val url = fixUrl(it.selectFirst("a")!!.attr("href"))
             val name = it.selectFirst("a")!!.text().trim()
-            listCountry.add(Page(name,url,nameApi = this.name))
         }
 
         return HomePageResponse(listHomePageList)
     }
 
-    override suspend fun getMenus(): List<Pair<String, List<Page>>> {
-        val html = app.get(mainUrl).text
-        val doc = Jsoup.parse(html)
-        val listGenre = arrayListOf<Page>()
-        doc.select(".top_menu .sub-menu").first()!!.select("li").forEach {
-            val url = fixUrl(it.selectFirst("a")!!.attr("href"))
-            val name = it.selectFirst("a")!!.text().trim()
-            listGenre.add(Page(name,url,nameApi = this.name))
-        }
-        val listCountry = arrayListOf<Page>()
-        doc.select(".top_menu .sub-menu")[1].select("li").forEach {
-            val url = fixUrl(it.selectFirst("a")!!.attr("href"))
-            val name = it.selectFirst("a")!!.text().trim()
-            listCountry.add(Page(name,url,nameApi = this.name))
-        }
-        return arrayListOf<Pair<String, List<Page>>>(
-            Pair("Thể loại", listGenre),
-            Pair("Quốc gia", listCountry)
-        )
-    }
-
-    override suspend fun loadPage(url: String): PageResponse {
-        val html = app.get(url).text
-        val document = Jsoup.parse(html)
-
-        val list =  document.select("#p0 .item").map {
-            getItemMovie(it)
-        }
-        return PageResponse(list,getPagingResult(document))
-    }
+      
     private fun getPagingResult(document: Document): String? {
         val tagPageResult: Element? = document.selectFirst("#pagination")
         if (tagPageResult == null) { // only one page
@@ -139,16 +105,7 @@ class SubNhanhProvider : MainAPI() {
         }
         return null
     }
-    override suspend fun search(query: String): List<SearchResponse>? {
-        val url = if(query == DEFAULT_QUERY_SEARCH) defaultPageUrl else  "$mainUrl/search?query=${query}"
-        Log.d("DuongKK","URL SEARCH $url")
-        val html = app.get(url).text
-        val document = Jsoup.parse(html)
-
-        return document.select("#all-items .item").map {
-            getItemMovie(it)
-        }
-    }
+    
 
     private fun getItemMovie(it: Element): MovieSearchResponse {
         val title = it.select(".item-block-title").last()!!.text()

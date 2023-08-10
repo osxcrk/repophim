@@ -1,0 +1,8 @@
+{
+    "name": "VN Repository Phim>",
+    "description": "Phim việt",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/netcrk/phim/master/plugins.json"
+    ]
+  }

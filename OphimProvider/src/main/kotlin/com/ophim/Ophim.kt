@@ -110,8 +110,7 @@ open class Ophim : MainAPI() {
         val response = app.get(url).parsedSafe<ResponseData>()
         val movieDetail = response?.data?.item
         movieDetail?.let { movieDetailItem ->
-            val related =  loadPage(DOMAIN + PREFIX_GENRE +"/"+movieDetail.category.first().slug)?.list
-            return if (movieDetail.type.toType() == TvType.Movie) {
+              return if (movieDetail.type.toType() == TvType.Movie) {
                 val listEp = arrayListOf<com.lagradost.cloudstream3.Episode>()
                 movieDetailItem.episodes.forEachIndexed { index, episode ->
                     listEp.addAll(episode.serverData.map { serverData ->
@@ -277,10 +276,7 @@ open class Ophim : MainAPI() {
         @JsonProperty("slug") val slug: String,
     )
 
-    fun MetaData.toPage(prefix: String): Page {
-        return Page(name = name, url = fixUrl(slug, mainUrl + prefix), nameApi = API_NAME)
-    }
-
+    
     //
     data class ResponseMetaData(
         @JsonProperty("status") val status: String,

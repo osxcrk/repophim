@@ -106,8 +106,7 @@ class SubNhanhProvider : MainAPI() {
         return null
     }
     override suspend fun search(query: String): List<SearchResponse>? {
-        Log.d("DuongKK","URL SEARCH $url")
-        val html = app.get(url).text
+      
         val document = Jsoup.parse(html)
 
         return document.select("#all-items .item").map {

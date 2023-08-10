@@ -9,9 +9,6 @@ import com.lagradost.cloudstream3.ui.home.ParentItemAdapter
 import com.lagradost.cloudstream3.ui.search.SearchFragment
 import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.getQualityFromName
-import com.phimhd.AppController
-import com.phimhd.ConfigHomeResponseData
-import com.phimhd.toHomePageList
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
@@ -81,36 +78,7 @@ class TVHayProvider : MainAPI() {
         return HomePageResponse(listHomePageList)
     }
 
-    override suspend fun getMenus(): List<Pair<String, List<Page>>>? {
-        val html = app.get(mainUrl).text
-        val doc = Jsoup.parse(html)
-        val listGenre = arrayListOf<Page>()
-        doc.select(".menu-item .sub-menu")[0]!!.select("li").forEach {
-            val url = fixUrl(it.selectFirst("a")!!.attr("href"))
-            val name = it.selectFirst("a")!!.text().trim()
-            listGenre.add(Page(name,url,nameApi = this.name))
-        }
-        val listCountry = arrayListOf<Page>()
-        doc.select(".menu-item .sub-menu")[1].select("li").forEach {
-            val url =fixUrl( it.selectFirst("a")!!.attr("href"))
-            val name = it.selectFirst("a")!!.text().trim()
-            listCountry.add(Page(name,url,nameApi = this.name))
-        }
-        return arrayListOf<Pair<String, List<Page>>>(
-            Pair("Thể loại", listGenre),
-            Pair("Quốc gia", listCountry)
-        )
-    }
-
-    override suspend fun loadPage(url: String): PageResponse {
-        val html = app.get(url).text
-        val document = Jsoup.parse(html)
-
-        val list =  document.select(".list-film .inner").map {
-            getItemMovie(it)
-        }
-        return PageResponse(list,getPagingResult(document))
-    }
+   
     private fun getPagingResult( document: Document): String? {
         val tagPageResult: Element? = document.selectFirst(".wp-pagenavi a")
         if (tagPageResult == null) { // only one page
@@ -151,15 +119,7 @@ class TVHayProvider : MainAPI() {
         }
         return null
     }
-    override suspend fun search(query: String): List<SearchResponse>? {
-        val url = if(query == SearchFragment.DEFAULT_QUERY_SEARCH) defaultPageUrl else "$mainUrl/tag/${query}"//https://chillhay.net/search/boyhood
-        val html = app.get(url).text
-        val document = Jsoup.parse(html)
-
-        return document.select(".list-film .inner").map {
-            getItemMovie(it)
-        }
-    }
+  
 
     override suspend fun quickSearch(query: String): List<SearchResponse>? {
         val url =  "$mainUrl/tag/${query}"//https://chillhay.net/search/boyhood

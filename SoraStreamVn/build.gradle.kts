@@ -6,7 +6,7 @@ version = 33
 android {
     defaultConfig {
         val properties = Properties()
-        properties.load(project.rootProject.file("local.properties").inputStream())
+        //properties.load(project.rootProject.file("local.properties").inputStream())
 
         buildConfigField("String", "SORA_API", "\"${properties.getProperty("SORA_API")}\"")
         buildConfigField("String", "SORAHE", "\"${properties.getProperty("SORAHE")}\"")

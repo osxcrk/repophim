@@ -71,29 +71,7 @@ open class Ophim : MainAPI() {
             }
         }
     }
-    override suspend fun loadPage(url: String): PageResponse? {
-        val splitUrl = url.split("&")
-        val originUrl = splitUrl[0]
-        val page = if (splitUrl.size > 1) splitUrl[1].toInt() else 1
-        val response = app.get("${originUrl}?page=${page}").parsedSafe<Home>()
-        val listItem =
-            response?.data?.items?.mapNotNull { itemData ->
-                val phim18 = itemData.category.find { cate -> cate.slug == "phim-18" }
-                if (settingsForProvider.enableAdult) {
-                    itemData.toSearchResponse()
-                } else {
-                    if (phim18 != null) {   // Contain 18+ in movie
-                        null
-                    } else {
-                        itemData.toSearchResponse()
-                    }
-                }
-            } ?: listOf()
-        return PageResponse(
-            list = listItem,
-            if (listItem.isEmpty()) null else "${originUrl}&${(page + 1)}"
-        )
-    }
+   
 
 
     override val mainPage = mainPageOf(

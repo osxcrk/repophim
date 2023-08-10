@@ -4,7 +4,7 @@ import android.net.Uri
 import android.util.Log
 import android.util.Patterns
 import com.lagradost.cloudstream3.*
-import com.lagradost.cloudstream3.ui.search.SearchFragment.Companion.DEFAULT_QUERY_SEARCH
+import com.lagradost.cloudstream3.ui.search.SearchFragment.Companion.*
 import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.getQualityFromName
 import org.jsoup.Jsoup

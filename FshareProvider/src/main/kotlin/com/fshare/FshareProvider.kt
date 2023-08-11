@@ -205,8 +205,8 @@ class FshareProvider : MainAPI() {
         val login = app.post(
             "https://api2.fshare.vn/api/user/login/",
             json = mapOf(
-                "user_email" to "boxphim705@gmail.com",
-                "password" to "asdfghjkl",
+                "user_email" to "fs91@f5.si",
+                "password" to "@Chinba123",
                 "app_key" to "tVDNf8QcQ5Sfasmm5ennLIjF5D11k21xCruVaAeJ",
             ).toJson(),
             headers = mapOf(

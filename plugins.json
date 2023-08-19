@@ -153,7 +153,7 @@
         "iconUrl": "https://tvhay8.org/assets/v1/images/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 12810,
+        "fileSize": 12873,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -170,5 +170,27 @@
         "description": "#TVHay Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvHayProvider.cs3",
         "name": "TvHayProvider"
+    },
+	  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 12810,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hhp"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "BluphimProvider",
+        "description": "#Blu Phim Full HD VietSub",
+        "url": "https://raw.githubusercontent.com/osxcrk/test/builds/BluphimProvider.cs3",
+        "name": "BluphimProvider"
     }
 ]

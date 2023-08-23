@@ -167,15 +167,59 @@
         ],
         "version": 4,
         "internalName": "TvHayProvider",
-        "description": "#TVHay Phim Thuy\u1ebft Minh",
+        "description": "#TvHay Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvHayProvider.cs3",
         "name": "TvHayProvider"
+    },
+	{
+        "iconUrl": "https://tvhay8.org/assets/v1/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 17971,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Xem8zProvider",
+        "description": "#Xem8z Phim Thuy\u1ebft Minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Xem8zProvider.cs3",
+        "name": "Xem8zProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xem8z.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 23964,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "MotphimProvider",
+        "description": "#Motphim Phim Thuy\u1ebft Minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotphimProvider.cs3",
+        "name": "MotphimProvider"
     },
 	  {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 12810,
+        "fileSize": 17487,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -190,7 +234,7 @@
         "version": 4,
         "internalName": "BluphimProvider",
         "description": "#Blu Phim Full HD VietSub",
-        "url": "https://raw.githubusercontent.com/osxcrk/test/builds/BluphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BluphimProvider.cs3",
         "name": "BluphimProvider"
     }
 ]

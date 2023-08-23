@@ -190,7 +190,7 @@
         "version": 4,
         "internalName": "Xem8zProvider",
         "description": "#Xem8z Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Xem8zProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Xem8z.cs3",
         "name": "Xem8zProvider"
     },
 	{
@@ -212,7 +212,7 @@
         "version": 4,
         "internalName": "MotphimProvider",
         "description": "#Motphim Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Motphim.cs3",
         "name": "MotphimProvider"
     },
 	  {
@@ -234,7 +234,7 @@
         "version": 4,
         "internalName": "BluphimProvider",
         "description": "#Blu Phim Full HD VietSub",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BluphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Bluphim.cs3",
         "name": "BluphimProvider"
     }
 ]

@@ -239,13 +239,13 @@
     }
 	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=bilutvb.org&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Unknow8x/test",
-        "fileSize": 15076,
+        "apiVersion": 2,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 14857,
         "status": 1,
         "language": "vi",
         "authors": [
-            "Hexated, Unknow8x"
+            "Unknow8x"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -256,7 +256,7 @@
         ],
         "version": 1,
         "internalName": "BilutvProvider",
-        "url": "https://raw.githubusercontent.com/Unknow8x/test/builds/BilutvProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BilutvProvider.cs3",
         "name": "BilutvProvider"
     }
 ]

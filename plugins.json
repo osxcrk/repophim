@@ -187,7 +187,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 14,
         "internalName": "Xem8zProvider",
         "description": "#Xem8z Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Xem8z.cs3",
@@ -209,7 +209,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 14,
         "internalName": "MotphimProvider",
         "description": "#Motphim Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Motphim.cs3",
@@ -231,7 +231,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 14,
         "internalName": "BluphimProvider",
         "description": "#Blu Phim Full HD VietSub",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Bluphim.cs3",

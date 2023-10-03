@@ -237,6 +237,28 @@
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Bluphim.cs3",
         "name": "BluphimProvider"
     },
+	  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=chillhay.im&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 17487,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "osxcrk"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 14,
+        "internalName": "ChillhayProvider",
+        "description": "#Chillhay phim thuyết minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/chillhayprovider.cs3",
+        "name": "ChillhayProvider"
+    },
 	{
         "iconUrl": "https://www.google.com/s2/favicons?domain=bilutvb.org&sz=%size%",
         "apiVersion": 2,

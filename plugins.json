@@ -18,10 +18,9 @@
         "name": "FshareProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ophim&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 22975,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -43,7 +42,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://phimnhanh2.com",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 21307,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -65,7 +63,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15789,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -77,7 +74,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 1,
         "internalName": "Phimmoichill",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Phimmoichill.cs3",
         "name": "Phimmoichill"
@@ -86,7 +83,6 @@
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 272043,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -110,7 +106,6 @@
         "iconUrl": "https://subnhanh.vip/logo1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 14125,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -132,7 +127,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 13899,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -152,7 +146,6 @@
         "iconUrl": "https://tvhay8.org/assets/v1/images/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 12873,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -174,7 +167,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem8z.com",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 17971,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -196,7 +188,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem8z.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 23964,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -240,7 +231,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=chillhay.im",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15515,
         "status": 1,
         "language": "vi",
         "authors": [

@@ -2,8 +2,8 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bilutvb.org&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
-        "fileSize": 15438,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15436,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -18,13 +18,13 @@
         ],
         "version": 1,
         "internalName": "BilutvProvider",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/BilutvProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BilutvProvider.cs3",
         "name": "BilutvProvider"
     },
     {
         "iconUrl": "https://chillhay.im/wp-content/uploads/2023/06/ChillhayIn.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 15553,
         "status": 1,
         "language": "vi",
@@ -40,13 +40,32 @@
         "version": 5,
         "internalName": "ChillhayProvider",
         "description": "#Chillhay Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/ChillhayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/ChillhayProvider.cs3",
         "name": "ChillhayProvider"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 21097,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FshareProvider",
+        "description": "Fshare 4K Bluray , 2k ,1080P \u0111\u1ee7 th\u1ec3 lo\u1ea1i. Bu\u1ed5i t\u1ed1i ae k\u00e9o nhi\u1ec1u h\u01a1i lag :3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/FshareProvider.cs3",
+        "name": "FshareProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 22972,
         "status": 1,
         "language": "vi",
@@ -62,13 +81,13 @@
         "version": 3,
         "internalName": "OphimProvider",
         "description": "#Ophim API",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/OphimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/OphimProvider.cs3",
         "name": "OphimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 11186,
         "status": 1,
         "language": "en",
@@ -81,13 +100,13 @@
         "version": 4,
         "internalName": "Paradisehill",
         "description": "Series porn (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/Paradisehill.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Paradisehill.cs3",
         "name": "Paradisehill"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem1080.com",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 21308,
         "status": 1,
         "language": "vi",
@@ -103,13 +122,13 @@
         "version": 2,
         "internalName": "Phim1080",
         "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/Phim1080.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Phim1080.cs3",
         "name": "Phim1080"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 15788,
         "status": 1,
         "language": "vi",
@@ -124,13 +143,13 @@
         ],
         "version": 12,
         "internalName": "Phimmoichill",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/Phimmoichill.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Phimmoichill.cs3",
         "name": "Phimmoichill"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 297583,
         "status": 1,
         "language": "vi",
@@ -148,13 +167,13 @@
         "version": 33,
         "internalName": "SoraStreamVn",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/SoraStreamVn.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/SoraStreamVn.cs3",
         "name": "SoraStreamVn"
     },
     {
         "iconUrl": "https://subnhanh.vip/logo1.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 14751,
         "status": 1,
         "language": "vi",
@@ -170,13 +189,13 @@
         "version": 2,
         "internalName": "SubnhanhProvider",
         "description": "#Subnhanh",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/SubnhanhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/SubnhanhProvider.cs3",
         "name": "SubnhanhProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 13898,
         "status": 1,
         "language": "vi",
@@ -190,13 +209,13 @@
         ],
         "version": 2,
         "internalName": "TocanimeProvider",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/TocanimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TocanimeProvider.cs3",
         "name": "TocanimeProvider"
     },
     {
         "iconUrl": "https://tvhay8.org/assets/v1/images/logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/phim",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 15532,
         "status": 1,
         "language": "vi",
@@ -212,7 +231,7 @@
         "version": 4,
         "internalName": "TvHayProvider",
         "description": "#TVHay Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/phim/builds/TvHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvHayProvider.cs3",
         "name": "TvHayProvider"
     }
 ]

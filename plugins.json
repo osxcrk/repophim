@@ -223,7 +223,7 @@
         "status": 1,
         "language": "vi",
         "authors": [
-            "hhp"
+            "osxcrk"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -253,7 +253,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "ChillhayProvider",
         "description": "#Chillhay phim thuyết minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/chillhayprovider.cs3",
@@ -267,7 +267,7 @@
         "status": 1,
         "language": "vi",
         "authors": [
-            "Unknow8x"
+            "osxcrk"
         ],
         "tvTypes": [
             "AnimeMovie",

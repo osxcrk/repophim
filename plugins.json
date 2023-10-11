@@ -233,5 +233,49 @@
         "description": "#TVHay Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvHayProvider.cs3",
         "name": "TvHayProvider"
+    },
+    {
+        "iconUrl": "https://xem8z.com/wp-content/uploads/2023/06/movievideoicon-1320087274946223173.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15532,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue, Unknow8x"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "xem8zProvider",
+        "description": "#Xem8z Phim Thuy\u1ebft Minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Xem8z.cs3",
+        "name": "xem8zProvider"
+    },
+    {
+        "iconUrl": "https://bluphim.com/Content/BluPhim/Imgs/bluphim2.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15532,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue, Unknow8x"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "BluphimProvider",
+        "description": "#Bluphim Phim Thuy\u1ebft Minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Bluphim.cs3",
+        "name": "BluphimProvider"
     }
 ]

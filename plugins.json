@@ -85,25 +85,6 @@
         "name": "OphimProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 11186,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Sora"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 4,
-        "internalName": "Paradisehill",
-        "description": "Series porn (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Paradisehill.cs3",
-        "name": "Paradisehill"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem1080.com",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",

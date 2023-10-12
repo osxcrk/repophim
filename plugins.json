@@ -277,5 +277,26 @@
         "description": "#Bluphim Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Bluphim.cs3",
         "name": "BluphimProvider"
+    },
+     {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXgt1ROWUjrXsmdPpum1ql3IGegwcagLeNZsiSO0J&s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 41610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "BongNgoTVProvider",
+        "description": "#1",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BongNgoTVProvider.cs3",
+        "name": "BongNgoTVProvider"
     }
 ]

@@ -1,5 +1,27 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nguonc.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15436,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Hexated, Unknow8x"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "TvSeries",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NguonCProvider",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/NguonCProvider.cs3",
+        "name": "NguonCProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bilutvb.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",

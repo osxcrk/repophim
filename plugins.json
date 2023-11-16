@@ -319,9 +319,9 @@
             "Others"
         ],
         "version": 1,
-        "internalName": "BongNgoTVProvider",
+        "internalName": "Youtube",
         "description": "#1",
-        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/BongNgoTVProvider.cs3",
-        "name": "BongNgoTVProvider"
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Youtube.cs3",
+        "name": "Youtube"
     }
 ]

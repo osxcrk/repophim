@@ -323,5 +323,27 @@
         "description": "#1",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/YouTube.cs3",
         "name": "Youtube"
-    }
+    },
+     {
+        "iconUrl": "https://motphimhan.cc/storage/files/motphimhan.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue, osxcrk"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Motphimhan",
+        "description": "#1",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotphimhanProvider.cs3",
+        "name": "Motphimhan"
+    }    
 ]

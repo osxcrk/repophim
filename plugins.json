@@ -216,6 +216,28 @@
         "description": "#1",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotphimhanProvider.cs3",
         "name": "Motphimhan"
+    },
+    {
+        "iconUrl": "https://phimbom.net/template/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue, osxcrk"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Phimbom",
+        "description": "#1 Phim bom",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimbomProvider.cs3",
+        "name": "Phimbom"
     }
         
 ]

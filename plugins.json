@@ -22,50 +22,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bilutvb.org&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15436,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Hexated, Unknow8x"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "TvSeries",
-            "Movie",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "BilutvProvider",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BilutvProvider.cs3",
-        "name": "BilutvProvider"
-    },
-    {
-        "iconUrl": "https://chillhay.im/wp-content/uploads/2023/06/ChillhayIn.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15553,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Blue, osxcrk"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "ChillhayProvider",
-        "description": "#Chillhay Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/ChillhayProvider.cs3",
-        "name": "ChillhayProvider"
-    },
-    {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
@@ -196,70 +152,6 @@
         "name": "SubnhanhProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 13898,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Hexated, TuaSan"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 2,
-        "internalName": "TocanimeProvider",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TocanimeProvider.cs3",
-        "name": "TocanimeProvider"
-    },
-    {
-        "iconUrl": "https://tvhayb.org/Theme/images/icon-tvhay-fb-1024.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15532,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Blue, Unknow8x"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "TvHayProvider",
-        "description": "#TVHay Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvHayProvider.cs3",
-        "name": "TvHayProvider"
-    },
-    {
-        "iconUrl": "https://xem8z.com/wp-content/uploads/2023/06/movievideoicon-1320087274946223173.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15532,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Blue, Unknow8x"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "xem8zProvider",
-        "description": "#Xem8z Phim Thuy\u1ebft Minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Xem8z.cs3",
-        "name": "xem8zProvider"
-    },
-    {
         "iconUrl": "https://bluphim.com/Content/BluPhim/Imgs/bluphim2.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
@@ -280,27 +172,6 @@
         "description": "#Bluphim Phim Thuy\u1ebft Minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Bluphim.cs3",
         "name": "BluphimProvider"
-    },
-     {
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXgt1ROWUjrXsmdPpum1ql3IGegwcagLeNZsiSO0J&s",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 41610,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Blue"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "BongNgoTVProvider",
-        "description": "#1",
-        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/BongNgoTVProvider.cs3",
-        "name": "BongNgoTVProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
@@ -345,27 +216,6 @@
         "description": "#1",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotphimhanProvider.cs3",
         "name": "Motphimhan"
-    },
-    {
-        "iconUrl": "https://motphimhan.cc/storage/files/motphimhan.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/osxcrk/repophim",
-        "fileSize": 15610,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "Blue, osxcrk"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "Duboku",
-        "description": "#1",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/DubokuProvider.cs3",
-        "name": "Duboku"
-    }    
+    }
+        
 ]

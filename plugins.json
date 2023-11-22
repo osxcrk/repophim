@@ -203,7 +203,7 @@
         "status": 1,
         "language": "vi",
         "authors": [
-            "Blue, osxcrk"
+            "Osxcrk"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -225,7 +225,7 @@
         "status": 1,
         "language": "vi",
         "authors": [
-            "Blue, osxcrk"
+            "Osxcrk"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -238,6 +238,27 @@
         "description": "#1 Phim bom",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimbomProvider.cs3",
         "name": "Phimbom"
-    }
-        
+    },
+      {
+        "iconUrl": "https://phimmoiyyy.net/wp-content/uploads/2023/03/phimmoi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Phimmoiyyy",
+        "description": "#1 Phim mới",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimmoiyyyProvider.cs3",
+        "name": "Phimmoiyyy"
+    }  
 ]

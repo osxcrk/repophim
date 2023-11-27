@@ -260,5 +260,27 @@
         "description": "#1 Phim mới",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimmoiyyyProvider.cs3",
         "name": "Phimmoiyyy"
-    }  
+    },
+    {
+        "iconUrl": "https://chillhay.io/assets/v1/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15610,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Chillhay",
+        "description": "#1 Chillhay Phim thuyết minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/ChillhayProvider.cs3",
+        "name": "Chillhay"
+    }
 ]

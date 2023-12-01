@@ -326,5 +326,23 @@
         "internalName": "BilutvProvider",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BilutvProvider.cs3",
         "name": "BilutvProvider"
+    },
+{
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Blue"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "LiveTVProvider",
+        "description": "Live TV",
+        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/LiveTVProvider.cs3",
+        "name": "LiveTVProvider"
     }
 ]

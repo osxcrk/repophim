@@ -282,5 +282,49 @@
         "description": "#1 Chillhay Phim thuyết minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/ChillhayProvider.cs3",
         "name": "Chillhay"
+    },
+    {
+        "iconUrl": "https://tvhayb.org/Theme/images/icon-tvhay-fb-1024.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15532,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "Blue, Unknow8x"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "TvHayProvider",
+        "description": "#TVHay Phim Thuy\u1ebft Minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvHayProvider.cs3",
+        "name": "TvHayProvider"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bilutvb.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 15436,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "Hexated, Unknow8x"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "TvSeries",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "BilutvProvider",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/BilutvProvider.cs3",
+        "name": "BilutvProvider"
     }
 ]

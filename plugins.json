@@ -288,7 +288,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 15532,
-        "status": 0,
+        "status": 1,
         "language": "vi",
         "authors": [
             "Blue, Unknow8x"
@@ -310,7 +310,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 15436,
-        "status": 0,
+        "status": 1,
         "language": "vi",
         "authors": [
             "Hexated, Unknow8x"

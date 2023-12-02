@@ -329,12 +329,12 @@
     },
 {
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 9087,
         "status": 1,
         "language": "vi",
         "authors": [
-            "Blue"
+            "Osxcrk"
         ],
         "tvTypes": [
             "Live"
@@ -342,7 +342,7 @@
         "version": 1,
         "internalName": "LiveTVProvider",
         "description": "Live TV",
-        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/LiveTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/LiveTVProvider.cs3",
         "name": "LiveTVProvider"
     }
 ]

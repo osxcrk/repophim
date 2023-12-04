@@ -344,5 +344,26 @@
         "description": "Live TV",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/LiveTVProvider.cs3",
         "name": "LiveTVProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [
+           "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MotchillProvider",
+        "description": "Motchill Vietsub",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotchillProvider.cs3",
+        "name": "MotchillProvider"
     }
 ]

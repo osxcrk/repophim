@@ -365,5 +365,24 @@
         "description": "Motchill Vietsub",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotchillProvider.cs3",
         "name": "MotchillProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 19087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [           
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TvdayProvider",
+        "description": "Tvday Phim thuyết minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvdayProvider.cs3",
+        "name": "TvdayProvider"
     }
 ]

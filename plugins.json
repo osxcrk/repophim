@@ -379,7 +379,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "TvdayProvider",
         "description": "Tvday Phim thuyết minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/TvdayProvider.cs3",

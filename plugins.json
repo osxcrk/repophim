@@ -403,5 +403,24 @@
         "description": "Hotphim thuyết minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/HotphimProvider.cs3",
         "name": "HotphimProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 19087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [           
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimlongtiengProvider",
+        "description": "Phim thuyết minh Hồng Kông, Trung Quốc",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimlongtiengProvider.cs3",
+        "name": "PhimlongtiengProvider"
     }
 ]

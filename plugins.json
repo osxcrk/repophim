@@ -422,5 +422,26 @@
         "description": "Phim thuyết minh Hồng Kông, Trung Quốc",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimlongtiengProvider.cs3",
         "name": "PhimlongtiengProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [
+           "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MotchillTProvider",
+        "description": "MotchillT Vietsub, Thuyết minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotchillTProvider.cs3",
+        "name": "MotchillTProvider"
     }
 ]

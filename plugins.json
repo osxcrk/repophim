@@ -310,7 +310,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 15436,
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "Hexated, Unknow8x"
@@ -346,6 +346,7 @@
         "name": "LiveTVProvider"
     },
     {
+        "iconUrl": "https://motchillzzz.net/_ipx/f_webp&s_200x52/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 9087,
@@ -367,6 +368,7 @@
         "name": "MotchillProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tvday.me&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 19087,
@@ -386,6 +388,7 @@
         "name": "TvdayProvider"
     },
      {
+         "iconUrl": "https://i.imgur.com/6XA9qn9.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 19087,
@@ -405,6 +408,7 @@
         "name": "HotphimProvider"
     },
     {
+        "iconUrl": "https://www.phimlongtieng.net/templates/themes/phim/images/phimmedia-s.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 19087,
@@ -424,6 +428,7 @@
         "name": "PhimlongtiengProvider"
     },
     {
+        "iconUrl": "https://motchillt.net/motchill.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 9087,
@@ -445,6 +450,7 @@
         "name": "MotchillTProvider"
     },
     {
+        "iconUrl": "https://motchillt.net/motchill.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 9087,

@@ -443,5 +443,24 @@
         "description": "MotchillT Vietsub, Thuyết minh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotchillTProvider.cs3",
         "name": "MotchillTProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HaychillProvider",
+        "description": "Haychill Phim Thuyết minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/HaychillProvider.cs3",
+        "name": "HaychillProvider"
     }
 ]

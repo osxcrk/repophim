@@ -450,7 +450,7 @@
         "name": "MotchillTProvider"
     },
     {
-        "iconUrl": "https://motchillt.net/motchill.png",
+        "iconUrl": "https://lh5.ggpht.com/p/AF1QipN7N8tLqH2oqT6dVVfxb_i4I8W6WQTffB5ENnIF=s0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 9087,
@@ -464,10 +464,10 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "HaychillProvider",
-        "description": "Haychill Phim Thuyết minh",
-        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/HaychillProvider.cs3",
-        "name": "HaychillProvider"
+        "internalName": "MotchillzProvider",
+        "description": "Motchillz Phim Thuyết minh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/MotchillzProvider.cs3",
+        "name": "MotchillzProvider"
     },
     {
         "iconUrl": "https://motchillt.net/motchill.png",

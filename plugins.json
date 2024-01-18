@@ -508,5 +508,24 @@
         "description": "KKPhim Nguồn phim lớn nhất",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/osxcrk/repophim",
+        "fileSize": 9087,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Osxcrk"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimmoiProvider",
+        "description": "Phim mới cập nhật nhanh",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimmoiProvider.cs3",
+        "name": "PhimmoiProvider"
     }
 ]

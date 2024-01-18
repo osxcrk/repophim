@@ -510,6 +510,7 @@
         "name": "KKPhimProvider"
     },
     {
+        "iconUrl": "https://image.phimmoi.io/image-resizing?width=300&image=https://i.imgur.com/IJ5lWbr.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/osxcrk/repophim",
         "fileSize": 9087,

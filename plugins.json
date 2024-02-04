@@ -528,5 +528,26 @@
         "description": "Phim mới cập nhật nhanh",
         "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/PhimmoiProvider.cs3",
         "name": "PhimmoiProvider"
+    },
+    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://raw.githubusercontent.com/osxcrk/repophim",
+        "fileSize": 73982,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Superstream",
+        "url": "https://raw.githubusercontent.com/osxcrk/repophim/builds/Superstream.cs3",
+        "name": "Superstream"
     }
 ]
